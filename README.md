@@ -1,2 +1,31 @@
-# sherger
-Aspiring Data Analyst (NUST MISIS).   Hands-on experience with SQL (PostgreSQL) &amp; Python: analytics, complex queries, retention &amp; LTV.   Building practical data projects.
+## Привет 👋
+
+Я Щербатый Герман — начинающий аналитик данных, студент 3 курса университета NUST MISIS.
+
+В этом профиле собраны мои учебные и практические проекты в области анализа данных и работы с базами данных.
+
+### 📊 Основной проект
+**SQL & Data Analysis Practice**
+
+Набор практических задач и решений по PostgreSQL и аналитике данных.
+
+В проекте:
+- создание и управление базами данных  
+- работа с JSON / массивами / пользовательскими типами  
+- сложные SQL-запросы (JOIN, CTE, подзапросы)  
+- оконные функции  
+- аналитика: retention, churn, LTV  
+- работа с геоданными (PostGIS)  
+
+### 🛠 Технологии
+- SQL (PostgreSQL)  
+- Python  
+- pandas, NumPy  
+- Matplotlib  
+
+### 📌 Что здесь есть
+- проекты по анализу данных  
+- SQL-практика  
+- учебные и пет-проекты  
+
+Сейчас развиваюсь в направлении аналитики данных и углубляю знания SQL и Python.
